@@ -1,4 +1,4 @@
-package go_module_belajar
+package belajar_go_module
 
 func SayHello() string {
 	return "Halooo Avanger's"
