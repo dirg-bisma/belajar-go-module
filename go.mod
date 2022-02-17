@@ -1,3 +1,3 @@
 module github.com/dirg-bisma/belajar-go-module
 
-go 1.15
+go 1.17
