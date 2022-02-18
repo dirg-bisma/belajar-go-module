@@ -1,5 +1,5 @@
 package belajar_go_module
 
-func SayHello() string {
-	return "Halooo Avanger's"
+func SayHello(name string) string {
+	return "Halooo Avanger's" + name
 }
